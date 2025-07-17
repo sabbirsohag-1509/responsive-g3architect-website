@@ -252,7 +252,8 @@ main > section{
         grid-template-columns: repeat(1, 1fr);
     }
     .fact-icon{
-        padding: 5px 10px;
+        padding: 5px;
+        margin: 0 35px;
     }
      .sponsors-icon{
         display: grid;
@@ -272,7 +273,7 @@ main > section{
     .our-features{
         margin: 25px auto;
     }
-    .facts-icon-container{
+    .sponsors-icon{
         grid-template-columns: repeat(2, 2fr);
     }
     .facts-content{
